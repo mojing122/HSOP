@@ -1,0 +1,1 @@
+ I {"placeholder": "text_a"},{"placeholder": "text_b"}, so I {"mask"} the {"placeholder": "text_c"}.

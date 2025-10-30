@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: hallucination-metrics
+Version: 0.1.0
+Summary: A library to calculate hallucination metrics from LLM outputs (logits, hidden_states, attentions).
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: torch>=1.12.0
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: transformers>=4.46.3
+Requires-Dist: optimum>=1.23.3
+Requires-Dist: auto-gptq>=0.7.1
+Requires-Dist: fastchat>=0.1.0
+Requires-Dist: fastapi>=0.116.1
+Requires-Dist: uvicorn[standard]>=0.33.0
+
+
+

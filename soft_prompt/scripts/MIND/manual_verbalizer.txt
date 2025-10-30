@@ -1,0 +1,3 @@
+like,love,adore,enjoy,favor
+dislike,don't like,hate,disgust,despise
+

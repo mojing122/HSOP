@@ -1,0 +1,6 @@
+A {"placeholder": "text_a"} comment : {"mask"}
+The comment on social media {"placeholder": "text_a"} is {"mask"}.
+This is a comment on social media:{"placeholder": "text_a"} which has an emotional tendency towards {"mask"}.
+The comment {"placeholder": "text_a"} is {"mask"}.
+This is a comment on social media:{"placeholder": "text_a"}, which is {"mask"}.
+

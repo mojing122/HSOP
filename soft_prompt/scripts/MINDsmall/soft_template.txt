@@ -1,0 +1,2 @@
+ {"soft"} one person clicked news : {"placeholder": "text_a"}, he {"mask"} the news {"placeholder": "text_b"}.
+ {"soft"} one person clicked news : {"placeholder": "text_a"}, he {"mask"} the news {"placeholder": "text_b"}.

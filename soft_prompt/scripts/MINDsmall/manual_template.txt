@@ -1,0 +1,5 @@
+ {"soft"} one person clicked news : {"placeholder": "text_a"}, he {"mask"} the news {"placeholder": "text_b"}.
+ {"soft":"clicked news :"} {"placeholder": "text_a"} {"mask"} {"soft":"the candidate news :"} {"placeholder": "text_b"}
+ {"soft":"clicked news :"} {"placeholder": "text_a"} {"mask"} {"soft":None,"duplicate":100} {"placeholder": "text_b"}
+ {"soft":None,"duplicate":100} {"placeholder": "text_a"} {"mask"} [SEP] {"placeholder": "text_b"}
+

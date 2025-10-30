@@ -1,0 +1,5 @@
+great,fantastic,wonderful,outstanding,fine,terrific,excellent,superb,super,awesome
+good,nice,fine,virtuous,right,moral,worthy,respectable,well,favorable
+common,ordinary,commonplace,usual,regular,general,customary,standard,routine,universal
+bad,boring,dull,tedious,uninteresting,tiresome,dreary,unexciting,uninspiring,colorless
+awfully,unpleasant,extremely,exceedingly,dreadfully,horribly,exceptionally,terrifically,atrociously,frightfully

@@ -1,0 +1,1 @@
+{"soft"} This is a {"placeholder": "text_a"} {"soft":"comment"}: {"mask"}.

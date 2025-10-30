@@ -1,0 +1,1 @@
+ {"soft"} one person like the news : {"placeholder": "text_a"}, he {"mask"} the news {"placeholder": "text_b"}.

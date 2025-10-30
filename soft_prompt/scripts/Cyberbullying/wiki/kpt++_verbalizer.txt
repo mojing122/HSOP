@@ -1,0 +1,2 @@
+malicious,obscene,nauseating,predatory,disgusting,pathological,repulsive,combative,abusive,anti-personnel,terrifying,detestable,unsanitary,aggressive,offensive,pestilent,invasive,violative,unpleasant,foul,offend,annoying,creepy,filthy,inedible,hateful,corpse,plunder,insulting,despicable,stinky
+friendly,kind,cordial,friendship,hospitable,friendliness,neighborly,partner,amiable,intimate,sociable,warm,conciliatory,social,gentle,favorable,comfortable,enthusiastic,informal,homely,attractive,pleasant,army,polite,eye-catching,soldier,military,supportive,user-friendly

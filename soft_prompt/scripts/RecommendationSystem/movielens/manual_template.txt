@@ -1,0 +1,5 @@
+{"placeholder": "text_a"}, so I think the {"placeholder": "text_b"} is {"mask"}.
+I think {"placeholder": "text_a"}, so I think the {"placeholder": "text_b"} is {"mask"}.
+I {"placeholder": "text_a"}, so I {"mask"} the {"placeholder": "text_b"}.
+I think the {"placeholder": "text_a"} is {"mask"}.
+I think the {"placeholder": "text_a"} which is about {"placeholder": "text_b"} is {"mask"}.
