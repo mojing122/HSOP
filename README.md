@@ -10,7 +10,7 @@ python ./emotional_polarization/main.py --dataset ToxiGen --model_name ../models
 
 # 2. Soft Prompt-tuning classification
 
-(1)Download the [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased) model (or other LLMs) file to the ./soft_prompt/models folder.
+(1)Download the [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased) model (or other BERT models) file to the ./soft_prompt/models folder.
 
 (2) Run the Soft Prompt-tuning classification script.
 
